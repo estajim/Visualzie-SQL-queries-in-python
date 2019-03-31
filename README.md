@@ -1,4 +1,4 @@
-# Visualzie-SQL-queries-in-python
+# Visualize-SQL-queries-in-python
 This repository contains a simple method to visualize SQL queries in Python. The visualizaiton is already available in many SQL platforms, but I have not seen such in Python. Since one might have more leverage to run SQL queries in python, I figured it might be a helpful addition to make things simpler in Python, as well. Before coming up with this, I just intended to practice with some SQL queries in Python using the 'chinook' database. 
 
 Using sqlite3 packcage in python, there is no straightforward method to see what selection query's output is. To address this, I wrote a simple function that utilizes pandas dataframes and some regex search to have meaningful table structures.
